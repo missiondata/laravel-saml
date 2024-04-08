@@ -1,5 +1,5 @@
 {
-    "name": "kingstarter/laravel-saml",
+    "name": "missiondata/laravel-saml",
     "description": "SAML support to make a laravel application to both a SAML IDP and a SAML SP.",
     "keywords": ["laravel", "saml", "illuminate", "auth", "acl", "login", "sso", "idp", "sp"],
     "license": "MIT",
@@ -8,7 +8,12 @@
         {
             "name": "Steve Hegenbart",
             "email": "steve.hegenbart@kingstarter.de"
+        },
+        {
+            "name": "Darren Day",
+            "email": "dday@wearegap.com"
         }
+
     ],
     "require": {
         "php": ">=5.5.9",
