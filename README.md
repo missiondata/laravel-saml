@@ -1,6 +1,10 @@
+# Fork Notes
+
+This is a fork (like many others) to use this saml package with newer versions of Laraval. It also will upgrade other dependencies (like lightsaml) so that it continues to be useable.
+
 # ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) IMPORTANT NOTE : LOOKING FOR OWNER
 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) __No more active development: As I am currently not able to keep on developing this repository and there are many forks and PRs, I would be very glad to transfer the repository to someone else. Please let me know by writing me an email to <git@kingstarter.de>.__
+ __No more active development: As I am currently not able to keep on developing this repository and there are many forks and PRs, I would be very glad to transfer the repository to someone else. Please let me know by writing me an email to <git@kingstarter.de>.__
 
 # Laravel SAML
 
